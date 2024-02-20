@@ -3,11 +3,11 @@
 ## SoftwareAG-API-Gateway Knowledge Dump
 ## Deployed as Container
 - [x] Docker Desktop
-  _ Docker Desktop will be using local laptop resources CPU & RAM. Advice to proceed with care if Resources are demanding.
-  _ Application will be compiled into Images and be deployed as an container to work as a running Application.
-  _ Storages will be stored in Volume.
-  _ Everytime container was deleted, Data imprinted during container runtime will not be persisted/remained
-  _ Storage is used to persist Datas created after container runtime.
+      _ Docker Desktop will be using local laptop resources CPU & RAM. Advice to proceed with care if Resources are demanding.
+      _ Application will be compiled into Images and be deployed as an container to work as a running Application.
+      _ Storages will be stored in Volume.
+      _ Everytime container was deleted, Data imprinted during container runtime will not be persisted/remained
+      _ Storage is used to persist Datas created after container runtime.
 ### Basic Knowledge to know.
   + docker commands
   + wsl if using windows
