@@ -75,10 +75,10 @@ Login Succeeded!
 docker pull registry.connect.redhat.com/elastic/kibana:8.12.1-9ac0f4a5
 ```
 # Standard Step by Step Requirements/Thoughts on Tasks
-- [] Deploy
-- [] Define Requirement
-- [] Set Security Measures requirements.
-- [] Execute Security Measures.
-- [] Execute Requirement required.
-- [] Test case involving Security Measures
-- [] Test Case involving Requirement Required.
+- [ ] Deploy
+- [ ] Define Requirement
+- [ ] Set Security Measures requirements.
+- [ ] Execute Security Measures.
+- [ ] Execute Requirement required.
+- [ ] Test case involving Security Measures
+- [ ] Test Case involving Requirement Required.
