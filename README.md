@@ -3,11 +3,11 @@
 ## SoftwareAG-API-Gateway Knowledge Dump
 ## Deployed as Container
 - [x] Docker Desktop
--       Docker Desktop will be using local laptop resources CPU & RAM. Advice to proceed with care if Resources are demanding.
--       Application will be compiled into Images and be deployed as an container to work as a running Application.
--       Storages will be stored in Volume.
--       Everytime container was deleted, Data imprinted during container runtime will not be persisted/remained
--       Storage is used to persist Datas created after container runtime.
+  - Docker Desktop will be using local laptop resources CPU & RAM. Advice to proceed with care if Resources are demanding.
+  - Application will be compiled into Images and be deployed as an container to work as a running Application.
+  - Storages will be stored in Volume.
+  - Everytime container was deleted, Data imprinted during container runtime will not be persisted/remained
+  - Storage is used to persist Datas created after container runtime.
 ### Basic Knowledge to know.
   + docker commands
   + wsl if using windows
@@ -15,7 +15,7 @@
   + dockerfile build knowledge
   + airgapped environment understanding
 - [x] OpenShift Container Platform (OCP)/ Code Ready Container (CRC) / Origin Kubernetes Distribution (OKD) / Kubernetes (k8s)
-  -      is a virtual cloud platform system created using virtual machines with server resources. Production usage is highly recommeded to deploy into this platform due to the capability settings which includes high availablilty and lightweight deployments.
+  - is a virtual cloud platform system created using virtual machines with server resources. Production usage is highly recommeded to deploy into this platform due to the capability settings which includes high availablilty and lightweight deployments.
   _
 - [x] k3d
 
